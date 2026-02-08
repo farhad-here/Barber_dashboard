@@ -1,0 +1,31 @@
+/* style for all */
+*{
+       margin: 0;
+       padding: 0;
+}
+/* style for body */
+body{
+       background-color: #2c2c2e;
+       height: 100vh;
+}
+/* style for left side */
+.icon-left button{
+       background-color: inherit;
+       border: none;
+}
+/* for right side card */
+.profile-intro p{
+       text-align: center;
+}
+.profile-intro .profile-introduce{
+       color: snow !important;
+}
+/* profile price */
+.profile-pr{
+       color: snow !important;
+}
+/* right side profile intro font */
+.profile-intro{
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* right side profile price font */
